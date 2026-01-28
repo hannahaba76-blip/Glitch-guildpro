@@ -1,0 +1,23 @@
+:root {
+  /* Dark Theme - Professional Gaming */
+  --bg-primary: #0f1117;
+  --bg-secondary: #1a1d29;
+  --bg-tertiary: #252836;
+  
+  /* Accent Colors */
+  --accent-blue: #00a2ff;
+  --accent-purple: #8a2be2;
+  --accent-cyan: #00d4ff;
+  --accent-green: #00ff9d;
+  --accent-red: #ff4757;
+  
+  /* Text Colors */
+  --text-primary: #ffffff;
+  --text-secondary: #8f9bba;
+  --text-muted: #6c7293;
+  
+  /* UI Elements */
+  --border-color: #2d3348;
+  --card-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  --hover-effect: 0 0 20px rgba(0, 162, 255, 0.3);
+}
